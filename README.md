@@ -4,14 +4,14 @@ Everything you need to build a Svelte project, powered by Svelte, Tailwind and D
 
 ## Creating a project
 
-Clone this repo
+install this dependency
 
 ```bash
 # clone this repo
-git clone 
+npm i sveltekit-tailwind-daisyui
 
 # open up the folder
-cd templateTailwindDaisyui
+cd sveltekit-tailwind-daisyui
 
 # install the dependencies
 npm i
