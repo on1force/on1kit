@@ -4,7 +4,7 @@
 
 <!-- Title Here -->
 <svelte:head>
-	<title>Pepereum</title>
+	<title>...</title>
 </svelte:head>
 <!-- Title Here -->
 
